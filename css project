@@ -1,0 +1,51 @@
+<DOCTYPE! html>
+    <html>
+        <title>CSS Project</title>
+
+        <style>
+
+        #title{
+            color:#1a64d6;
+            font-size:34px;
+            line-height: 48px;
+        }
+
+        h4{
+            color:lightgray;
+            font-size: 18px;
+        }
+
+        .high-temp{
+            color:grey;
+        }
+            
+
+
+
+
+        </style>
+        <body>
+            <p>
+                <h1 id="title">Currently 21° in Tokyo</h1>
+                <h2>13° / 23°</h2>
+                <br>
+                <br>
+                <h3>Tomorrow</h3>
+                <br>
+                <h4>10° / 22°</h4>
+                <br>
+                <br>
+                <h3>Saturday</h3>
+                <br>
+                <h4>15° / 17°</h4>
+                <br>
+                <br>
+                <h3>Sunday</h3>
+                <br>
+                <h4>25° / 28°</h4>
+
+
+
+            </p>
+        </body>
+    </html>
