@@ -1,0 +1,36 @@
+.credits{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:DarkOrange;
+    font-size:12px;
+}
+
+body{
+    font-family:fantasy;
+    color:white;
+    font-size:18px;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size:28px;
+    color:Black;
+}
+
+hr{
+    color:white;
+    font-weight: bold;
+}
+
+html{
+    background-color:LightPink;
+}
+
+img{
+    width:100px; height:100px
+}
+
+iframe{
+    height:300px;
+    width:200px;
+}
